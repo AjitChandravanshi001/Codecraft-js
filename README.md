@@ -1,2 +1,2 @@
 # Codecraft-js
-A code repo for JavaScript 
+Crafting code with the magic of JavaScript.
